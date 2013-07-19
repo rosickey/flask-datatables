@@ -36,6 +36,6 @@ MIT
 ### ChangeLog ###
 
 
-2012 06 02 - **v0.1.0** (206.26 KB, minified:79.67 KB)
+2013 07 19 - **v0.1.0** 
 
-* Initial release of Timbre.js
+* Initial release of Flask-DataTables
